@@ -6,7 +6,6 @@ notifications:
 deploy:
   provider: heroku
   api_key:
-    secure: cf82551e-b6f8-4dec-86aa-d28174146b2b
-    app: ci-attempt-3
-    on:
-      branch: main
+    secure: Aef/OxTTynTlffhawls723VtK2whO836wMFfDZdTzH2fDBbmXTrGwL3A+3dXPLNA2S3iPN/BWcrRNG+bC4EHBomVXVSxSNjVjzoGdznDJLJw4LqmIBtJjmY2dwX7M8n46NBBfkKqlmdPAtzz52zUOiOpaoDmVqGxBWGwlf0DdPrpDVohmc+de510GuIJaoPJZQvBvWGyIg/cyuGnaiCXQyhZxRF7fphFhKrf3dbfNbMgeY+4bsHf4aGqSMsPPHk6zOjQG3teFvPvrkj1egzvyPDABWAajrrrWUzCryXYrATgv/jpEdYTI/l9YCtiOQR64E86gR4PM8Qh7U+YnRXphFlCHW/hr9NKz0JwnnGHZFobmVaLMet+/jnXiLa8lKHaAMbRCgMf2Z4fqtPcr/duNj7LBi0W9wYQxAdNSt1b+1oOdVyYWdpBrAhkwlRoZaHKputARmf4f7HownStKipfo6jq4NmH3irRgIRTYsX0PrBgoT/AT7pOQEGcAION2kKRRbAMCe5l+2lpsGQQs8Cfqy71QX3MJBn+Urc3JlZYaylvl9as7sanSZW6Bq5Wbzh+p9pRJ/gBIG9GUamLM44kvOchfr37ftRfyFok0j+6f39j30yw6/teAJwssY4u8kjB6O7/4JVPod/PBLZxYvdrcHSpyA3wYc+PdwD8WveNjbo=
+  on: 
+    branch: main
